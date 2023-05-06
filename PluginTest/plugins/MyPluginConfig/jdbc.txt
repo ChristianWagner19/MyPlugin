@@ -1,0 +1,1 @@
+jdbc:mysql://myplugin:Lizard132@132.145.161.146/minecraft_myplugin

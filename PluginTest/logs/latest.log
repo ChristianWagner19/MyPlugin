@@ -1,0 +1,259 @@
+[16:34:57] [ServerMain/INFO]: Building unoptimized datafixer
+[16:34:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:35:00] [ServerMain/INFO]: Loaded 7 recipes
+[16:35:01] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[16:35:01] [Server thread/INFO]: Loading properties
+[16:35:01] [Server thread/INFO]: This server is running Paper version git-Paper-270 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: e22dacf)
+[16:35:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:35:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:35:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[16:35:02] [Server thread/INFO]: Default game type: SURVIVAL
+[16:35:02] [Server thread/INFO]: Generating keypair
+[16:35:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:35:02] [Server thread/INFO]: Using epoll channel type
+[16:35:02] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[16:35:02] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[16:35:02] [Server thread/INFO]: [STDOUT] [mingle.MyPlugin.MyPlugin] Read line from file: jdbc:mysql://myplugin:Lizard132@132.145.161.146/minecraft_myplugin
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loading 2 libraries... please wait
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/com/google/inject/guice/5.1.0/guice-5.1.0.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/javax/inject/javax.inject/1/javax.inject-1.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/com/google/guava/guava/30.1-jre/guava-30.1-jre.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] Loaded library /home/ubuntu/PluginTest/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[16:35:03] [Server thread/INFO]: [WolfyUtilities] NMS Version: v1_19_R1
+[16:35:04] [Server thread/INFO]: [me.wolfyscript.lib.org.reflections.Reflections] Reflections took 381 ms to scan 1 urls, producing 1232 keys and 3846 values
+[16:35:04] [Server thread/INFO]: [CustomCrafting] NMS Version: v1_19_R1
+[16:35:04] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.7
+[16:35:04] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.40
+[16:35:04] [Server thread/INFO]: [MyPlugin] Loading MyPlugin v0.0.1
+[16:35:04] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.4.18-Release
+[16:35:04] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[16:35:04] [Server thread/INFO]: [Visual Crafting] Loading visual-crafting v1.0.6
+[16:35:04] [Server thread/INFO]: [BloodNight] Debug logger initialized. Log Level: INFO
+[16:35:04] [Server thread/INFO]: [BloodNight] Loading BloodNight v0.11.1
+[16:35:04] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.0-dev+17-6e931b2
+[16:35:04] [Server thread/INFO]: [WolfyUtilities] Loading WolfyUtilities v4.16.8.0
+[16:35:04] [Server thread/INFO]: [WolfyUtilities] Register json serializer/deserializer
+[16:35:04] [Server thread/INFO]: [WolfyUtilities] Register CustomItem meta checks
+[16:35:04] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.0-dev+17-6e931b2
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Loading CustomCrafting v3.16.8.1
+[16:35:04] [Server thread/INFO]: [CustomCrafting] WolfyUtils API: v4.16.8.0
+[16:35:04] [Server thread/INFO]: [CustomCrafting] CustomCrafting: v3.16.8.1
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Environment   : PROD
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Registering CustomItem Data
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Registering Result Extensions
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Registering Result Merge Adapters
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Registering Recipe Conditions
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Registering Recipe Types
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Registering Anvil Recipe Tasks
+[16:35:04] [Server thread/INFO]: [CustomCrafting] Registering Type Registries
+[16:35:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:35:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.40
+[16:35:05] [Server thread/INFO]:         __    
+[16:35:05] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.40
+[16:35:05] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:35:05] [Server thread/INFO]: 
+[16:35:05] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:35:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [MYSQL]
+[16:35:05] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Starting...
+[16:35:05] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Start completed.
+[16:35:06] [Server thread/INFO]: [LuckPerms] Loading messaging service... [SQL]
+[16:35:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:35:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:35:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1979ms)
+[16:35:06] [Server thread/INFO]: [WolfyUtilities] Enabling WolfyUtilities v4.16.8.0
+[16:35:06] [Server thread/INFO]: [WolfyUtilities] Minecraft version: 1.19.2
+[16:35:06] [Server thread/INFO]: [WolfyUtilities] WolfyUtils version: 4.16.8.0
+[16:35:06] [Server thread/INFO]: [WolfyUtilities] Environment: PROD
+[16:35:06] [Server thread/INFO]: [WolfyUtilities] Loading Plugin integrations: 
+[16:35:06] [Server thread/INFO]: [WolfyUtilities]  - No integrations found
+[16:35:06] [Server thread/INFO]: [WolfyUtilities] Register API references
+[16:35:07] [Server thread/INFO]: [WolfyUtilities] Loading stored Custom Items
+[16:35:07] [Server thread/INFO]: [WolfyUtilities] Loading Player Data
+[16:35:07] [Server thread/INFO]: [WolfyUtilities] Loading Creative Mode Tabs
+[16:35:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:35:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:35:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:35:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:35:07] [Server thread/INFO]: Preparing level "world"
+[16:35:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:35:08] [Server thread/INFO]: Time elapsed: 140 ms
+[16:35:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:35:08] [Server thread/INFO]: Time elapsed: 79 ms
+[16:35:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:35:08] [Server thread/INFO]: Time elapsed: 53 ms
+[16:35:08] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.7
+[16:35:08] [Server thread/INFO]: [MyPlugin] Enabling MyPlugin v0.0.1
+[16:35:08] [Server thread/INFO]: [MyPlugin] MyPlugin Sucessfully Loaded!
+[16:35:08] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.18-Release
+[16:35:08] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[16:35:08] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[16:35:08] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[16:35:08] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[16:35:09] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[16:35:09] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
+[16:35:09] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[16:35:09] [Server thread/INFO]: [Minepacks] Finished loading item translations for 828 items.
+[16:35:09] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[16:35:09] [Server thread/INFO]: [Visual Crafting] Enabling visual-crafting v1.0.6
+[16:35:09] [Server thread/INFO]: [Visual Crafting] Visual Crafting was enabled!
+[16:35:09] [Server thread/INFO]: [Visual Crafting] Using version adapter 'VersionAdapter19R1'
+[16:35:09] [Server thread/INFO]: [BloodNight] Enabling BloodNight v0.11.1
+[16:35:09] [Server thread/INFO]: [BloodNight] Loading config.
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Found matching locale for en_US
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Locale messages_en_US.properties is up to date.
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Found matching locale for es_ES
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Locale messages_es_ES.properties is up to date.
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Found matching locale for de_DE
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Locale messages_de_DE.properties is up to date.
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Found matching locale for tr
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Locale messages_tr.properties is up to date.
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Found matching locale for zh_CN
+[16:35:09] [Server thread/INFO]: [BloodNight] §2Locale messages_zh_CN.properties is up to date.
+[16:35:10] [Server thread/INFO]: [BloodNight] §2Metrics enabled. Thank you! (> ^_^ )>
+[16:35:10] [Server thread/INFO]: [BloodNight] Hook into MythicMobs failed. Plugin is not enabled.
+[16:35:10] [Server thread/INFO]: [BloodNight] Hook into PlaceholderAPI failed. Plugin is not enabled.
+[16:35:10] [Server thread/INFO]: [BloodNight] Hook into Multiverse-Core failed. Plugin is not enabled.
+[16:35:10] [Server thread/INFO]: [BloodNight] Hook into Hyperverse failed. Plugin is not enabled.
+[16:35:10] [Server thread/INFO]: [BloodNight] Loading config.
+[16:35:10] [Server thread/INFO]: [BloodNight] §2BloodNight enabled!
+[16:35:10] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.0-dev+17-6e931b2
+[16:35:10] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[16:35:10] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[16:35:10] [Server thread/INFO]: [Essentials] Loaded 38132 items from items.json.
+[16:35:10] [Server thread/INFO]: [Essentials] Using locale en
+[16:35:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:35:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:35:10] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[16:35:10] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[16:35:10] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[16:35:10] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.0-dev+17-6e931b2
+[16:35:10] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[16:35:10] [Server thread/INFO]: [CustomCrafting] Enabling CustomCrafting v3.16.8.1
+[16:35:10] [Server thread/INFO]: [CustomCrafting] ____ _  _ ____ ___ ____ _  _ ____ ____ ____ ____ ___ _ _  _ ____ 
+[16:35:10] [Server thread/INFO]: [CustomCrafting] |    |  | [__   |  |  | |\/| |    |__/ |__| |___  |  | |\ | | __ 
+[16:35:10] [Server thread/INFO]: [CustomCrafting] |___ |__| ___]  |  |__| |  | |___ |  \ |  | |     |  | | \| |__]
+[16:35:10] [Server thread/INFO]: [CustomCrafting]     Version    | v3.16.8.1
+[16:35:10] [Server thread/INFO]: [CustomCrafting]     WolfyUtils | v4.16.8.0
+[16:35:10] [Server thread/INFO]: [CustomCrafting]     Bukkit     | git-Paper-270 (MC: 1.19.2)(API: 1.19.2-R0.1-SNAPSHOT)
+[16:35:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
+[16:35:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
+[16:35:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[16:35:11] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'PlugMan' to create a bStats instance!
+[16:35:11] [Thread-8/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package com.wolfyscript.lib.nbt.nbtapi' seems to be outdated!
+[16:35:11] [Thread-8/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0' Newest Version: 2.11.2'
+[16:35:11] [Thread-8/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[16:35:11] [Server thread/INFO]: [CustomCrafting] 
+[16:35:11] [Server thread/INFO]: [CustomCrafting] Special thanks to my Patrons for supporting this project: 
+[16:35:11] [Server thread/INFO]: [CustomCrafting] Omarlatif, Nat R, Junye Zhou, Apprehentice, PwassonDoDouce, Mr_Mint_
+[16:35:11] [Server thread/INFO]: [CustomCrafting] ------------------------------------------------------------------------
+[16:35:11] [Server thread/INFO]: [CustomCrafting] Loaded fallback language "en_US" v6.0.0 translated by WolfyScript
+[16:35:11] [Server thread/INFO]: [CustomCrafting] Loaded active language "en_US" v6.0.0 translated by WolfyScript
+[16:35:11] [Server thread/INFO]: [CustomCrafting] Data destination: LOCAL
+[16:35:11] [Server thread/INFO]: [CustomCrafting] Initiating Inventory GUIs
+[16:35:11] [Server thread/INFO]: [CustomCrafting] Register ItemCreator Tabs
+[16:35:12] [Server thread/INFO]: [CustomCrafting] Loading Cauldrons
+[16:35:12] [Server thread/INFO]: [CustomCrafting] Loading Recipes & Items
+[16:35:12] [Server thread/INFO]: [CustomCrafting] - - - - [Local Storage] - - - -
+[16:35:12] [Server thread/INFO]: [CustomCrafting] [LOCAL] Looking through data folder...
+[16:35:12] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loading Items
+[16:35:13] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loading Recipes
+[16:35:13] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loaded 35 recipes; Skipped: 0 error/s, 0 already existing
+[16:35:13] [Server thread/INFO]: [CustomCrafting] [LOCAL_OLD] Loaded 0 recipes; Skipped: 0 error/s, 0 already existing
+[16:35:13] [Server thread/INFO]: [CustomCrafting] [LOCAL_LEGACY] Loaded 0 recipes; Skipped: 0 error/s, 0 already existing
+[16:35:13] [Server thread/INFO]: [CustomCrafting] [LOCAL] Loaded 35 recipes
+[16:35:13] [Server thread/INFO]: [CustomCrafting] 
+[16:35:13] [Server thread/INFO]: [CustomCrafting] Indexing Recipe Book...
+[16:35:13] [Server thread/INFO]: [CustomCrafting] Indexed Recipe Book!
+[16:35:13] [Server thread/INFO]: [CustomCrafting] ------------------------------------------------------------------------
+[16:35:13] [CC-update-check/WARN]: [CustomCrafting] Your version is outdated! There is a new version available! Download it here: https://www.spigotmc.org/resources/55883/
+[16:35:14] [Server thread/INFO]: Running delayed init tasks
+[16:35:14] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[16:35:14] [Server thread/INFO]: Done (12.427s)! For help, type "help"
+[16:35:14] [Server thread/INFO]: Timings Reset
+[16:35:14] [Server thread/INFO]: [BloodNight] Executing cleanup task on startup.
+[16:35:14] [Server thread/INFO]: [BloodNight] Removed 0 hanging boss bars.
+[16:35:14] [Server thread/INFO]: [BloodNight] Night manager initialized.
+[16:35:14] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 39 EssentialsX dev build(s) out of date!
+[16:35:14] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[16:35:15] [User Authenticator #0/INFO]: UUID of player ChristianMingle is 0935368f-ca5a-337c-989d-09675a252446
+[16:35:15] [Server thread/INFO]: Welcome ChristianMingle back to the server!
+[16:35:15] [Server thread/INFO]: mingle.MyPlugin.entities.User@1e862248
+[16:35:15] [Server thread/INFO]: ChristianMingle joined the game
+[16:35:15] [Server thread/INFO]: ChristianMingle[/137.155.250.89:31304] logged in with entity id 190 at ([world]-34.53969045214315, 72.0, -23.560153155917444)
+[16:35:17] [Craft Scheduler Thread - 4 - BloodNight/INFO]: [BloodNight] §2New version of §6BloodNight§2 available.
+[16:35:17] [Craft Scheduler Thread - 4 - BloodNight/INFO]: [BloodNight] §2Newest version: §30.11.2! Current version: §c0.11.1§2!
+[16:35:17] [Craft Scheduler Thread - 4 - BloodNight/INFO]: [BloodNight] §2Download new version here: §6https://www.spigotmc.org/resources/85095
+[16:35:18] [Server thread/INFO]: ChristianMingle issued server command: /stats
+[16:35:23] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /heal ChristianMingle
+[16:35:23] [Server thread/INFO]: Healed ChristianMingle.
+[16:35:27] [Server thread/INFO]: 2.25
+[16:35:27] [Server thread/INFO]: [MyPlugin] [STDOUT] Vitality Called
+[16:35:27] [Server thread/WARN]: Nag author(s): '[ChristianMingle]' of 'MyPlugin' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[16:35:27] [Server thread/INFO]: 2.25
+[16:35:27] [Server thread/INFO]: [MyPlugin] [STDOUT] Vitality Called
+[16:35:28] [Server thread/INFO]: 2.25
+[16:35:28] [Server thread/INFO]: [MyPlugin] [STDOUT] Vitality Called
+[16:35:38] [Server thread/INFO]: ChristianMingle issued server command: /stats
+[16:35:44] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /heal ChristianMingle
+[16:35:44] [Server thread/INFO]: Healed ChristianMingle.
+[16:35:50] [Server thread/INFO]: ChristianMingle lost connection: Disconnected
+[16:35:50] [Server thread/INFO]: ChristianMingle left the game
+[16:35:52] [Server thread/INFO]: Stopping the server
+[16:35:52] [Server thread/INFO]: Stopping server
+[16:35:52] [Server thread/INFO]: [CustomCrafting] Disabling CustomCrafting v3.16.8.1
+[16:35:52] [Server thread/INFO]: [CustomCrafting] Saving Cauldrons
+[16:35:52] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.0-dev+17-6e931b2
+[16:35:52] [Server thread/INFO]: [WolfyUtilities] Disabling WolfyUtilities v4.16.8.0
+[16:35:52] [Server thread/INFO]: [WolfyUtilities] Save stored Custom Items
+[16:35:52] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.0-dev+17-6e931b2
+[16:35:52] [Server thread/INFO]: [BloodNight] Disabling BloodNight v0.11.1
+[16:35:52] [Server thread/INFO]: [BloodNight] Shutting down night manager.
+[16:35:52] [Server thread/INFO]: [BloodNight] Resolving blood nights.
+[16:35:52] [Server thread/INFO]: [BloodNight] Night manager shutdown successful.
+[16:35:52] [Server thread/INFO]: [BloodNight] Hooks shutting down.
+[16:35:52] [Server thread/INFO]: [BloodNight] Blood Night disabled!
+[16:35:52] [Server thread/INFO]: [Visual Crafting] Disabling visual-crafting v1.0.6
+[16:35:52] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.18-Release
+[16:35:53] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[16:35:53] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[16:35:53] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[16:35:53] [Server thread/INFO]: [MyPlugin] Disabling MyPlugin v0.0.1
+[16:35:53] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.40
+[16:35:53] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:35:53] [Server thread/INFO]: [LuckPerms] Closing messaging service...
+[16:35:53] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:35:53] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown initiated...
+[16:35:53] [Server thread/INFO]: [me.lucko.luckperms.lib.hikari.HikariDataSource] luckperms-hikari - Shutdown completed.
+[16:35:53] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:35:53] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.7
+[16:35:53] [Server thread/INFO]: Saving players
+[16:35:53] [Server thread/INFO]: Saving worlds
+[16:35:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:35:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:35:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:35:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Saved 692 block chunks, 692 entity chunks, 0 poi chunks in world 'world' in 1.48s
+[16:35:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:35:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.52s
+[16:35:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:35:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:35:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:35:56] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.12s
+[16:35:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:35:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:35:56] [Server thread/INFO]: Flushing Chunk IO
+[16:35:56] [Server thread/INFO]: Closing Thread Pool
+[16:35:56] [Server thread/INFO]: Closing Server

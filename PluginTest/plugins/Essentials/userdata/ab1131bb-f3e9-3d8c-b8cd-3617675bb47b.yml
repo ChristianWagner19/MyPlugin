@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.107.150.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1680569992994
+  login: 1680569932482
+money: '0'
+last-account-name: Spencerscout
+lastlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: -2.007336536152889
+  y: 72.62517936475926
+  z: -0.7344489063457611
+  yaw: 37.200653076171875
+  pitch: 12.899944305419922
+logoutlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: -4.0051046772621515
+  y: 71.0
+  z: 10.382470626142673
+  yaw: -147.46737670898438
+  pitch: 2.6995112895965576

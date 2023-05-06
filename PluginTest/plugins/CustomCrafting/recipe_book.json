@@ -1,0 +1,188 @@
+{
+  "filters" : {
+    "options" : [ {
+      "id" : "brewing",
+      "icon" : "GLASS_BOTTLE",
+      "name" : "$recipe_book.filter.brewing.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "BREWING" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "GLASS_BOTTLE"
+      }
+    }, {
+      "id" : "search",
+      "icon" : "COMPASS",
+      "name" : "$recipe_book.filter.search.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "SEARCH" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "COMPASS"
+      }
+    }, {
+      "id" : "building_blocks",
+      "icon" : "BRICKS",
+      "name" : "$recipe_book.filter.building_blocks.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "BUILDING_BLOCKS" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "BRICKS"
+      }
+    }, {
+      "id" : "decorations",
+      "icon" : "PEONY",
+      "name" : "$recipe_book.filter.decorations.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "DECORATIONS" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "PEONY"
+      }
+    }, {
+      "id" : "combat",
+      "icon" : "GOLDEN_SWORD",
+      "name" : "$recipe_book.filter.combat.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "COMBAT" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "GOLDEN_SWORD"
+      }
+    }, {
+      "id" : "tools",
+      "icon" : "IRON_AXE",
+      "name" : "$recipe_book.filter.tools.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "TOOLS" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "IRON_AXE"
+      }
+    }, {
+      "id" : "redstone",
+      "icon" : "REDSTONE",
+      "name" : "$recipe_book.filter.redstone.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "REDSTONE" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "REDSTONE"
+      }
+    }, {
+      "id" : "food",
+      "icon" : "APPLE",
+      "name" : "$recipe_book.filter.food.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "FOOD" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "APPLE"
+      }
+    }, {
+      "id" : "transportation",
+      "icon" : "POWERED_RAIL",
+      "name" : "$recipe_book.filter.transportation.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "TRANSPORTATION" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "POWERED_RAIL"
+      }
+    }, {
+      "id" : "misc",
+      "icon" : "LAVA_BUCKET",
+      "name" : "$recipe_book.filter.misc.name$",
+      "description" : [ "$recipe_book.filter_navigation$" ],
+      "groups" : [ ],
+      "folders" : [ ],
+      "recipes" : [ ],
+      "creativeModeTabs" : [ "MISC" ],
+      "materials" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "LAVA_BUCKET"
+      }
+    } ],
+    "sort" : [ "search", "brewing", "building_blocks", "decorations", "combat", "tools", "redstone", "food", "transportation", "misc" ]
+  },
+  "categories" : {
+    "options" : [ {
+      "id" : "default",
+      "icon" : "CRAFTING_TABLE",
+      "name" : "$recipe_book.category.main.name$",
+      "description" : [ "<grey>Contains all the recipes available" ],
+      "auto" : true,
+      "groups" : [ "default", "vanilla+", "craft_mining", "vanillaplus", "level5_craft_woodworking", "level10_craft_woodworking" ],
+      "folders" : [ "", "craft_woodworking", "customcrafting", "craft_mining", "revival", "vanillaplus" ],
+      "recipes" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "CRAFTING_TABLE"
+      }
+    }, {
+      "id" : "customcrafting",
+      "icon" : "CRAFTING_TABLE",
+      "name" : "$recipe_book.category.customcrafting.name$",
+      "description" : [ "<grey>Contains CustomCrafting`s special recipes" ],
+      "auto" : false,
+      "groups" : [ ],
+      "folders" : [ "customcrafting" ],
+      "recipes" : [ ],
+      "iconStack" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "CRAFTING_TABLE"
+      }
+    } ],
+    "sort" : [ "default", "customcrafting" ]
+  }
+}

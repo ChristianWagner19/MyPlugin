@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 137.155.250.89
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682008550484
+  login: 1682008515960
+money: '0'
+last-account-name: ChristianMingle
+lastlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: -4.699999988079071
+  y: 68.0
+  z: 4.3009395715526
+  yaw: -90.269287109375
+  pitch: 37.02239990234375
+logoutlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: -34.30000001192093
+  y: 72.0
+  z: -25.69999998807907
+  yaw: 7.500457763671875
+  pitch: 15.450057983398438

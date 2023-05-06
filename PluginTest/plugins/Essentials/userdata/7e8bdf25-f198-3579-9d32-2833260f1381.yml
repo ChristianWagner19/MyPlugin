@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 108.49.215.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679148055482
+  login: 1679148028592
+money: '0'
+last-account-name: ShokoIsSleepy
+lastlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: -81.48571377580724
+  y: 6.630767627105445
+  z: 25.030362569717656
+  yaw: -13.649267196655273
+  pitch: 38.39962387084961
+logoutlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: -23.65125882552671
+  y: 72.0
+  z: -14.341429470399799
+  yaw: -142.63037109375
+  pitch: 11.099666595458984

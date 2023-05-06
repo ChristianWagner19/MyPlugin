@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: ''
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668616686278
+  login: 0
+  command-cooldowns:
+  - pattern: mining_level5( .*)?
+    value: 1668638024726
+money: '0'
+logoutlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: -3.470842080533226
+  y: 70.0
+  z: -0.8684715957995535
+  yaw: -109.64892578125
+  pitch: 49.3499755859375

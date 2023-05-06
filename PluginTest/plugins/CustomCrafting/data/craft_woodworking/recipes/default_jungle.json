@@ -1,0 +1,43 @@
+{
+  "@type" : "customcrafting:crafting_shapeless",
+  "group" : "default",
+  "hidden" : false,
+  "vanillaBook" : true,
+  "priority" : "NORMAL",
+  "checkNBT" : false,
+  "conditions" : {
+    "values" : [ {
+      "key" : "customcrafting:permission",
+      "option" : "EXACT",
+      "permission" : "MyPlugin.default"
+    } ]
+  },
+  "checkAllNBT" : false,
+  "settings" : { },
+  "result" : {
+    "items" : [ {
+      "custom_amount" : 4,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "JUNGLE_PLANKS",
+        "amount" : 4
+      }
+    } ],
+    "tags" : [ ],
+    "extensions" : [ ]
+  },
+  "ingredients" : [ {
+    "items" : [ {
+      "custom_amount" : 1,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "JUNGLE_LOG"
+      }
+    } ],
+    "tags" : [ ],
+    "replaceWithRemains" : true,
+    "allowEmpty" : false
+  } ]
+}

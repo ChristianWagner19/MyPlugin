@@ -1,0 +1,160 @@
+{
+  "@type" : "customcrafting:crafting_shaped",
+  "group" : "vanillaplus",
+  "hidden" : false,
+  "vanillaBook" : true,
+  "priority" : "NORMAL",
+  "checkNBT" : false,
+  "conditions" : {
+    "values" : [ ]
+  },
+  "symmetry" : {
+    "horizontal" : false,
+    "vertical" : false,
+    "rotate" : false
+  },
+  "shape" : [ "ABC", "DEF", "GHI" ],
+  "ingredients" : {
+    "H" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "I" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "A" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND_BLOCK"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "B" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND_BLOCK"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "C" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND_BLOCK"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "D" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "E" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "GOLDEN_APPLE"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "F" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    },
+    "G" : {
+      "items" : [ {
+        "custom_amount" : 1,
+        "item" : {
+          "==" : "org.bukkit.inventory.ItemStack",
+          "v" : 3120,
+          "type" : "DIAMOND"
+        }
+      } ],
+      "tags" : [ ],
+      "replaceWithRemains" : true,
+      "allowEmpty" : false
+    }
+  },
+  "checkAllNBT" : false,
+  "settings" : { },
+  "result" : {
+    "items" : [ {
+      "custom_amount" : 1,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "GOLDEN_APPLE",
+        "meta" : {
+          "==" : "ItemMeta",
+          "meta-type" : "UNSPECIFIC",
+          "display-name" : "{\"extra\":[{\"text\":\"Enchanted Golden Apple\"}],\"text\":\"\"}",
+          "loc-name" : "{\"extra\":[{\"text\":\"Enchanted Golden Apple\"}],\"text\":\"\"}",
+          "lore" : [ "{\"extra\":[{\"text\":\"Provides regeneration 4 for a short time\"}],\"text\":\"\"}" ],
+          "enchants" : {
+            "PROTECTION_ENVIRONMENTAL" : 4
+          }
+        }
+      }
+    } ],
+    "tags" : [ ],
+    "extensions" : [ ]
+  }
+}

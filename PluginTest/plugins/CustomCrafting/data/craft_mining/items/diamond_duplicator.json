@@ -1,0 +1,60 @@
+{
+  "apiReference" : {
+    "custom_amount" : 1,
+    "item" : {
+      "==" : "org.bukkit.inventory.ItemStack",
+      "v" : 3120,
+      "type" : "DIAMOND_ORE",
+      "meta" : {
+        "==" : "ItemMeta",
+        "meta-type" : "UNSPECIFIC",
+        "display-name" : "{\"extra\":[{\"text\":\"Diamond Duplicator\"}],\"text\":\"\"}",
+        "lore" : [ "{\"extra\":[{\"text\":\"Add this next to 16 diamonds to get 32 diamonds\"}],\"text\":\"\"}" ],
+        "enchants" : {
+          "LOOT_BONUS_BLOCKS" : 2
+        }
+      }
+    }
+  },
+  "equipmentSlots" : [ ],
+  "consumed" : true,
+  "blockVanillaEquip" : false,
+  "blockPlacement" : false,
+  "blockVanillaRecipes" : false,
+  "rarityPercentage" : 1.0,
+  "permission" : "",
+  "nbtChecks" : {
+    "checks" : [ {
+      "key" : "wolfyutilities:customitem_tag"
+    } ]
+  },
+  "replacement" : null,
+  "fuelSettings" : {
+    "allowedBlocks" : [ ],
+    "burnTime" : 20
+  },
+  "durabilityCost" : 0,
+  "particleContent" : { },
+  "actionSettings" : {
+    "events" : [ ]
+  },
+  "blockSettings" : {
+    "useCustomDrops" : true
+  },
+  "customDataMap" : {
+    "customcrafting:cauldron" : {
+      "enabled" : false
+    },
+    "customcrafting:recipe_book" : {
+      "enabled" : false
+    },
+    "customcrafting:elite_crafting_table" : {
+      "enabled" : false,
+      "gridSize" : 3,
+      "advancedRecipes" : false,
+      "allowHoppers" : false,
+      "keepItems" : false
+    }
+  },
+  "data" : [ ]
+}

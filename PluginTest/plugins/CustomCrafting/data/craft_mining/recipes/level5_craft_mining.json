@@ -1,0 +1,48 @@
+{
+  "@type" : "customcrafting:crafting_shapeless",
+  "group" : "craft_mining",
+  "hidden" : false,
+  "vanillaBook" : true,
+  "priority" : "NORMAL",
+  "checkNBT" : false,
+  "conditions" : {
+    "values" : [ ]
+  },
+  "checkAllNBT" : false,
+  "settings" : { },
+  "result" : {
+    "items" : [ {
+      "custom_amount" : 64,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "IRON_INGOT",
+        "amount" : 64
+      }
+    } ],
+    "tags" : [ ],
+    "extensions" : [ ]
+  },
+  "ingredients" : [ {
+    "items" : [ {
+      "custom_amount" : 1,
+      "wolfyutilities" : "customcrafting:craft_mining/iron_duplicator"
+    } ],
+    "tags" : [ ],
+    "replaceWithRemains" : true,
+    "allowEmpty" : false
+  }, {
+    "items" : [ {
+      "custom_amount" : 32,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "RAW_IRON",
+        "amount" : 32
+      }
+    } ],
+    "tags" : [ ],
+    "replaceWithRemains" : true,
+    "allowEmpty" : false
+  } ]
+}

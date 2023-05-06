@@ -1,0 +1,60 @@
+{
+  "apiReference" : {
+    "custom_amount" : 1,
+    "item" : {
+      "==" : "org.bukkit.inventory.ItemStack",
+      "v" : 3120,
+      "type" : "GOLDEN_APPLE",
+      "meta" : {
+        "==" : "ItemMeta",
+        "meta-type" : "UNSPECIFIC",
+        "display-name" : "{\"extra\":[{\"text\":\"Apple of Revival\"}],\"text\":\"\"}",
+        "lore" : [ "{\"extra\":[{\"text\":\"Add\\\":[playername]\\\" to the end of the item in an anvil\"}],\"text\":\"\"}", "{\"extra\":[{\"text\":\"and eat the item to revive a dead player\"}],\"text\":\"\"}" ],
+        "enchants" : {
+          "MENDING" : 1
+        }
+      }
+    }
+  },
+  "equipmentSlots" : [ ],
+  "consumed" : true,
+  "blockVanillaEquip" : false,
+  "blockPlacement" : false,
+  "blockVanillaRecipes" : false,
+  "rarityPercentage" : 1.0,
+  "permission" : "",
+  "nbtChecks" : {
+    "checks" : [ {
+      "key" : "wolfyutilities:customitem_tag"
+    } ]
+  },
+  "replacement" : null,
+  "fuelSettings" : {
+    "allowedBlocks" : [ ],
+    "burnTime" : 20
+  },
+  "durabilityCost" : 0,
+  "particleContent" : { },
+  "actionSettings" : {
+    "events" : [ ]
+  },
+  "blockSettings" : {
+    "useCustomDrops" : true
+  },
+  "customDataMap" : {
+    "customcrafting:cauldron" : {
+      "enabled" : false
+    },
+    "customcrafting:recipe_book" : {
+      "enabled" : false
+    },
+    "customcrafting:elite_crafting_table" : {
+      "enabled" : false,
+      "gridSize" : 3,
+      "advancedRecipes" : false,
+      "allowHoppers" : false,
+      "keepItems" : false
+    }
+  },
+  "data" : [ ]
+}

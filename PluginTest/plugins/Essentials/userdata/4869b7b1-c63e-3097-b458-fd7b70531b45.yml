@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.32.249.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674366073276
+  login: 1674366066871
+money: '0'
+last-account-name: ServerSmoocher07
+lastlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: 1.5
+  y: 72.0
+  z: -6.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: b0002496-e06a-474c-ad06-a902289cffc1
+  world-name: world
+  x: 0.5
+  y: 70.0
+  z: 0.5
+  yaw: 130.7454833984375
+  pitch: 83.20790100097656

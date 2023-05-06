@@ -1,0 +1,48 @@
+{
+  "@type" : "customcrafting:crafting_shapeless",
+  "group" : "",
+  "hidden" : false,
+  "vanillaBook" : true,
+  "priority" : "NORMAL",
+  "checkNBT" : false,
+  "conditions" : {
+    "values" : [ ]
+  },
+  "checkAllNBT" : false,
+  "settings" : { },
+  "result" : {
+    "items" : [ {
+      "custom_amount" : 32,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "DIAMOND",
+        "amount" : 32
+      }
+    } ],
+    "tags" : [ ],
+    "extensions" : [ ]
+  },
+  "ingredients" : [ {
+    "items" : [ {
+      "custom_amount" : 1,
+      "wolfyutilities" : "customcrafting:craft_mining/diamond_duplicator"
+    } ],
+    "tags" : [ ],
+    "replaceWithRemains" : true,
+    "allowEmpty" : false
+  }, {
+    "items" : [ {
+      "custom_amount" : 16,
+      "item" : {
+        "==" : "org.bukkit.inventory.ItemStack",
+        "v" : 3120,
+        "type" : "DIAMOND",
+        "amount" : 16
+      }
+    } ],
+    "tags" : [ ],
+    "replaceWithRemains" : true,
+    "allowEmpty" : false
+  } ]
+}
